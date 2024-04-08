@@ -1,16 +1,26 @@
-### Hi there 👋
+자기소개서
+=========
+### 이름 : 황정한
+##### 나이 : ~~30~~ 96년 1월 빠른년생
+사는곳
+-----
+서울시 종로구 숭인동
 
-<!--
-**hwangjeonghan/hwangjeonghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+경력
+----
+> **해군부사관**
+1. 진해함
+2. 227 전진기지대
+> **에스텍시스템**
+1. 잠실 삼성SDS 경호 보안
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+좋아하는것
+---------
+강아지, 아기, 귀여운것
+
+
+앞으로의 포부
+------------
+열심히 배워서 잘 써먹도록 하는 것 
