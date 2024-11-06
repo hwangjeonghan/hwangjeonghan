@@ -33,14 +33,4 @@
 | [**다른 프로젝트**](https://github.com/username/anotherproject) | Hugging Face의 NLP 모델을 활용한 챗봇입니다. | Python, FastAPI, Hugging Face |
 
 --------------------------------------------------------------
-# 📈 GitHub Stats (GitHub 통계)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
-
-
---------------------------------------------------------------
-# 💬 Connect with Me (연락 방법)
-
-- GitHub: [GitHub](https://github.com/hwangjeonghan)
-- Gmail : [Gmail](hjeonghan0@gamil.com)
