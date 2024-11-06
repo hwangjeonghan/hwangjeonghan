@@ -27,9 +27,9 @@
 
 ### 주요 프로젝트
 
-| 프로젝트 | 설명 | 기술 스택 |
+| 프로젝트 | 설명 | 맡은업무 |
 | -------- | -------- | -------- |
-| [**프로젝트 이름**](https://github.com/username/projectname) | XYZ 기능을 제공하는 웹 애플리케이션입니다. | Spring Boot, Vue, Docker |
+| [**Leafresh**](https://github.com/username/projectname) | 원예일지 및 식물분양. | 채팅기능, 식물등록 |
 | [**다른 프로젝트**](https://github.com/username/anotherproject) | Hugging Face의 NLP 모델을 활용한 챗봇입니다. | Python, FastAPI, Hugging Face |
 
 --------------------------------------------------------------
