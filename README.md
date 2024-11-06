@@ -38,14 +38,9 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
 
---------------------------------------------------------------
-# 🏆 GitHub Trophies (GitHub 트로피)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=username&theme=onedark)
 
 --------------------------------------------------------------
 # 💬 Connect with Me (연락 방법)
 
-- GitHub: [GitHub](https://github.com/username)
-- 개인 웹사이트: [yourwebsite.com](https://yourwebsite.com)
-- Velog: [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hwangjeonghan/posts)
+- GitHub: [GitHub](https://github.com/hwangjeonghan)
+- Gmail : [Gmail](hjeonghan0@gamil.com)
