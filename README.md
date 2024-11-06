@@ -29,7 +29,7 @@
 
 | 프로젝트 | 설명 | 맡은업무 |
 | -------- | -------- | -------- |
-| [**Leafresh**](https://github.com/username/projectname) | 원예일지 및 식물분양. | 채팅기능, 식물등록 |
+| [**Leafresh**](https://github.com/Leafresh-2024) | 원예일지 및 식물분양. | 채팅기능, 식물등록 |
 | [**다른 프로젝트**](https://github.com/username/anotherproject) | Hugging Face의 NLP 모델을 활용한 챗봇입니다. | Python, FastAPI, Hugging Face |
 
 --------------------------------------------------------------
