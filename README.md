@@ -32,7 +32,7 @@
 | 프로젝트 | 설명 | 맡은업무 |
 | -------- | -------- | -------- |
 | [**Leafresh**](https://github.com/Leafresh-2024) | 원예일지 및 식물분양. | 채팅기능, 식물등록 |
-| [**Fitchecker**]((https://github.com/AI-X-main-projext-ITOWE)) | On-Device를 이용한 자세교정 운동 AI | Python, FastAPI, Hugging Face, flutter, fire base |
+| [**Fitchecker**](https://github.com/AI-X-main-projext-ITOWE) | On-Device를 이용한 자세교정 운동 AI | Python, FastAPI, Hugging Face, flutter, fire base |
 
 --------------------------------------------------------------
 
