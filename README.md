@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2E64FE&height=250&section=header&text=%20💪Hwang&fontSize=50&animation=twinkling&fontColor=FFFF00&desc=JH🤸‍♂️&stroke=FFFFFF&strokeWidth=3&rotate=-20&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2E64FE&height=250&section=header&text=%20Hwang🤨&fontSize=50&animation=twinkling&fontColor=FFFF00&desc=JH🤸‍♂️&stroke=FFFFFF&strokeWidth=3&rotate=-20&fontAlign=50&fontAlignY=50)
 --------------------------------------------------------------
 # 💫 About Me
 
